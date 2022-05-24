@@ -2,10 +2,10 @@ package testfunctions
 
 import "fmt"
 
-func printTestOne() {
+func PrintTestOne() {
 	fmt.Println("Test One")
 }
 
-func printTestTwo() {
+func PrintTestTwo() {
 	fmt.Println("Test Two")
 }
